@@ -1,0 +1,11 @@
+C:\Users\GABRIEL\Desktop\hivegate_backend\migration\target\debug\deps\libfutures_lite-0bbc990f6e0ecb21.rmeta: C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+C:\Users\GABRIEL\Desktop\hivegate_backend\migration\target\debug\deps\libfutures_lite-0bbc990f6e0ecb21.rlib: C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+C:\Users\GABRIEL\Desktop\hivegate_backend\migration\target\debug\deps\futures_lite-0bbc990f6e0ecb21.d: C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs:
+C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs:
+C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs:
+C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs:
+C:\Users\GABRIEL\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs:

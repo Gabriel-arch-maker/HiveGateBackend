@@ -1,0 +1,16 @@
+[package]
+name = "hivegate_backend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4"
+actix = "0.13.5"
+actix-web-actors = "4"
+bcrypt = "0.17.0"
+serde = { version = "1.0.219", features = ["derive"] }
+sea-orm = { version = "1.1.8", features = ["sqlx-postgres", "runtime-actix-native-tls"] }
+tokio = { version = "1.45.0", features = ["macros", "rt-multi-thread", "time"] }
+dotenvy = "0.15.7"
+serde_json = "1.0.140"
+uuid = { version = "1.17.0", features = ["v4"] }
