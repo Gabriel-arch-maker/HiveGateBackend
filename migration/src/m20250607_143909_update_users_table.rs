@@ -14,13 +14,13 @@ impl MigrationTrait for Migration {
                     .add_column(
                         ColumnDef::new(Users::Username)
                             .string()
-                            .not_null()
+                            .null()
                             .unique_key(),
                     )
                     .add_column(
                         ColumnDef::new(Users::Password)
                             .string()
-                            .not_null(),
+                            .null(),
                     )
                     .to_owned(),
             )
